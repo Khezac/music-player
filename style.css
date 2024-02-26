@@ -167,6 +167,9 @@ span{
     display: flex;
     justify-content: space-between;
 }
+/*------------------------------------------------*/
+
+/* Responsive Media Query */
 
 @media screen and (max-width: 480px) {
     body{
@@ -193,3 +196,5 @@ span{
         margin: auto;
     }
 }
+
+/*------------------------------------*/
